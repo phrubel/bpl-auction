@@ -1,0 +1,15 @@
+.btn{
+
+    background-color: rgb(252, 110, 85);
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+.player-form{
+    display: flex;
+}
+/* .plyers-auction{
+    width: 10%;
+} */

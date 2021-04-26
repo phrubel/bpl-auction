@@ -1,0 +1,30 @@
+.player {
+  background-color: lightgrey;
+  margin-left: 35px;
+  float: left;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.players-img {
+  height: 160px;
+  width: 195px;
+  border-radius: 50%;
+  border: 5px solid #272133;
+  margin-top: 20px;
+  align-items: center;
+  text-align: center;
+}
+.card-content {
+  text-align: center;
+  font-weight: 600;
+}
+.btn {
+  /* background-color: #17c3f8;
+  width: 150px;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: 400; */
+  cursor: pointer;
+}

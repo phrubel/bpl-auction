@@ -1,0 +1,10 @@
+.players-container{
+    display: flex;
+}
+.players-card{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid gray;
+    margin-top: 7px;
+}
