@@ -19,6 +19,8 @@ const Players = () => {
     }
 
 // useEffect use for Api Data Load
+
+// This api maaybe destroyed
     useEffect(()=>{
       fetch('https://api.mocki.io/v1/40fc817b')
       .then(res=>res.json())
